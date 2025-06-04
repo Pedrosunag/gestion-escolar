@@ -9,6 +9,7 @@ Este proyecto corresponde a la **actividad final** de la materia **Desarrollo We
 - Osuna Gutiérrez Pedro  
 - Juan Solis Vasquez  
 - Oliver Garzón García  
+- Zatarain Tirado Liliana
 
 ---
 
